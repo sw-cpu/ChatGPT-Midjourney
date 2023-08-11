@@ -242,7 +242,7 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "免责什么",
+    Name: "免责申明",
   },
   Mask: {
     Name: "面具",
